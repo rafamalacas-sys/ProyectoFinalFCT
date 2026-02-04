@@ -1,6 +1,6 @@
-# [TechImpose]
+# TechImpose
 
-> **[Esta proyecto esta pensado para crear una programa de imposición.]**
+> **Esta proyecto esta pensado para crear una programa de imposición.**
 
 ---
 
