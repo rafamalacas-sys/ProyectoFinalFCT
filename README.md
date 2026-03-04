@@ -28,7 +28,7 @@ Este proyecto surge de una necesidad real detectada durante la formación en Pre
 ## 🛠️ Stack Tecnológico
 * **Lenguaje:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * **Entorno de Desarrollo:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) **Community Edition**
-* **Framework:** [FastAPI](https://fastapi.tiangolo.com/)
+* **Framework:** [![FastAPI](https://fastapi.tiangolo.com/img/icon-white.svg)FastAPI](https://fastapi.tiangolo.com/)
 * **Servidor:** [Google Cloud Run](https://cloud.google.com/run)
 * **Base de Datos:** [FireBase](https://firebase.google.com/?hl=es-419), [FireStorage](https://firebase.google.com/products/storage?hl=es-419), [Cloud FireStore](https://firebase.google.com/docs/firestore?hl=es-419)
 * **Gestión de Versiones:** [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)Git](https://git-scm.com/)
