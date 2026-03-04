@@ -31,7 +31,7 @@ Este proyecto surge de una necesidad real detectada durante la formación en Pre
 * **Framework:** [FastAPI](https://fastapi.tiangolo.com/)
 * **Servidor:** [Google Cloud Run](https://cloud.google.com/run)
 * **Base de Datos:** [FireBase](https://firebase.google.com/?hl=es-419), [FireStorage](https://firebase.google.com/products/storage?hl=es-419), [Cloud FireStore](https://firebase.google.com/docs/firestore?hl=es-419)
-* **Gestión de Versiones:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+* **Gestión de Versiones:** [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
