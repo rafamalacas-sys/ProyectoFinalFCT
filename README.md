@@ -28,8 +28,9 @@ Este proyecto surge de una necesidad real detectada durante la formación en Pre
 ## 🛠️ Stack Tecnológico
 * **Lenguaje:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * **Entorno de Desarrollo:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) **Community Edition**
-* **Framework:** ⏳ *Por determinar* (Candidatos: FastAPI / Django / Flask)
-* **Base de Datos:** ⏳ *Por determinar* (Candidatos: SQLite / PostgreSQL)
+* **Framework:** [FastAPI](https://fastapi.tiangolo.com/)
+* **Servidor:** [Google Cloud Run](https://cloud.google.com/run)
+* **Base de Datos:** [FireBase](https://firebase.google.com/?hl=es-419), [FireStorage](https://firebase.google.com/products/storage?hl=es-419), [Cloud FireStore](https://firebase.google.com/docs/firestore?hl=es-419)
 * **Gestión de Versiones:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -50,6 +51,8 @@ Este proyecto surge de una necesidad real detectada durante la formación en Pre
 
 ## 🔗 Enlaces y Anexos
 * 📊 **Presentación:** [PechaKucha](https://drive.google.com/file/d/1QqXSs6VWM1H0zOtp4Pw8OR-d0WSy0TEZ/view?usp=drive_link)
+* 🔲 **Diagrama Arquitectonico** [LucidChart.](https://lucid.app/lucidchart/1155ac92-a9e5-483d-b793-d110f7160baf/edit?viewport_loc=-563%2C-112%2C3056%2C1669%2C0_0&invitationId=inv_0b3520df-4b01-42ff-927d-f30a6dfdd2fb)
+* 
 * 📄 **Licencia:** ![CC BY-NC-SA](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 * 📄  **Licencia Logo:** [TechImpose_Circular © 2026 por Rafael Malagón Castillo está licenciada bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional](<a href="https://drive.google.com/file/d/1b-lovKULsTDsz9EmC-B8zqTpFHadHii8/view?usp=sharing" _msttexthash="405600" _msthash="718">TechImpose_Circular</a><font _mstmutation="1" _msttexthash="97396" _msthash="719"> © 2026 por </font><a href="https://www.instagram.com/milarisfiliedlie/" _msttexthash="506883" _msthash="720">Rafael Malagón Castillo</a><font _mstmutation="1" _msttexthash="389597" _msthash="721"> está licenciada bajo </font><a href="https://creativecommons.org/licenses/by-sa/4.0/" _msttexthash="2536248" _msthash="722">Creative Commons Atribución-CompartirIgual 4.0 Internacional</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">)
 * 📘 **Documento Dosieer:** [TFG - Rafael_Malagón_Castillo - Proyecto Desarrollo de Aplicaciones Multiplataforma.](https://docs.google.com/document/d/1dIem4EpACHb8ZixbwEPM3oPkKoS3btpHJyiaIOdI5I0/edit?usp=sharing)
