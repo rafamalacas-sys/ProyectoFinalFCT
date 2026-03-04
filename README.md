@@ -29,8 +29,9 @@ Este proyecto surge de una necesidad real detectada durante la formación en Pre
 * **Lenguaje:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * **Entorno de Desarrollo:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) **Community Edition**
 * **Framework:** [![FastAPI](https://fastapi.tiangolo.com/img/icon-white.svg)FastAPI](https://fastapi.tiangolo.com/)
-* **Servidor:** [![Cloud Run](https://www.gstatic.com/cgc/google-cloud-logo.svg)Google Cloud Run](https://cloud.google.com/run)
-* **Base de Datos:** [![FireBase](https://www.gstatic.com/devrel-devsite/prod/v0aaaacbf0fa1137eef038c28cbf068bb36f5d76d975ff92c1063f1fc9a424af3/firebase/images/lockup.svg)FireBase](https://firebase.google.com/?hl=es-419), [FireStorage](https://firebase.google.com/products/storage?hl=es-419), [Cloud FireStore](https://firebase.google.com/docs/firestore?hl=es-419)
+* **Servidor:** [![Cloud Run]([https://www.gstatic.com/cgc/google-cloud-logo.svg](https://www.gstatic.com/bricks/image/3b93b3091f3cd79c1ffb3abee9f22e87ba44c7a39feb5f6ab60616d2a1fd5f56.svg))Google Cloud Run](https://cloud.google.com/run)
+* **Base de Datos:** [![FireBase](<img src="https://firebase.google.com/static/images/brand-guidelines/product-logo.png?hl=es-419" width="24" />
+)FireBase](https://firebase.google.com/?hl=es-419), [FireStorage](https://firebase.google.com/products/storage?hl=es-419), [Cloud FireStore](https://firebase.google.com/docs/firestore?hl=es-419)
 * **Gestión de Versiones:** [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)Git](https://git-scm.com/)
 
 ---
